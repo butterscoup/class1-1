@@ -21,6 +21,7 @@ class Main{
         if(arr[x]==k){
           return x;
         }
+        
       }
       return -1;
       
